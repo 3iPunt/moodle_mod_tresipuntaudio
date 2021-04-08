@@ -2,6 +2,14 @@
 
 Módulo para reproducir archivos de audio.
 
+## Instalation
+
+Copy project inside Moodle folder
+
+```
+/mod/tresipuntaudio/
+```
+
 ## License ##
 
 2021 Tresipunt <contacte@tresipunt.com>
